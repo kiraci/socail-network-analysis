@@ -1,8 +1,15 @@
 # Social Network
 
-This is an computer program that understands the relations in a group of people with the help of a adjecncy list. You can send me an e-mail if you have any questions or suggesstions ( osmanbugraaydin@gmail.com ).
+This is an computer program that reveals the relations in a group of people with the help of a adjacency list. The program uses breadth first search algorithm to understand the links between people in the group. Please look at the pdf file to understand how it works and what is the output. You can send me an e-mail if you have any questions or suggesstions ( osmanbugraaydin@gmail.com ).
 
-There are three main functions which are: 
+### Installation
+
+- Type just "make" in the terminal
+- Type "./simulator_Q1" or type "." and press tab to auto complete
+- THEN YOU HAVE THE OUTPUT :)
+
+
+#### There are three main functions which are:
 
 -void listFriends(const string personName, const int hopNo)
 
@@ -16,4 +23,6 @@ There are three main functions which are:
 
     It calculates and displays the diameter of each connected component within the friendship network. The diameter of a connected component is the longest of the shortest paths between any pair of vertices within this connected component. See the output example below for the format.
     
-Details about the program can be found in the pdf file
+Details about the program can be found in the pdf file.
+
+###### This is an project-homework of Bilkent University CS202 class.
